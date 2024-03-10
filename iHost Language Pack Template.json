@@ -101,7 +101,7 @@
   },
   "DatePicker.lang.locale": {
     "Original": "en_US",
-    "Custom": "en_US"
+    "Custom": ""
   },
   "DatePicker.lang.today": {
     "Original": "Today",
@@ -165,7 +165,7 @@
   },
   "DatePicker.lang.dayFormat": {
     "Original": "D",
-    "Custom": "D"
+    "Custom": ""
   },
   "DatePicker.lang.dateTimeFormat": {
     "Original": "M/D/YYYY HH:mm:ss",
@@ -289,7 +289,7 @@
   },
   "Calendar.lang.locale": {
     "Original": "en_US",
-    "Custom": "en_US"
+    "Custom": ""
   },
   "Calendar.lang.today": {
     "Original": "Today",
@@ -353,7 +353,7 @@
   },
   "Calendar.lang.dayFormat": {
     "Original": "D",
-    "Custom": "D"
+    "Custom": ""
   },
   "Calendar.lang.dateTimeFormat": {
     "Original": "M/D/YYYY HH:mm:ss",
@@ -413,7 +413,7 @@
   },
   "Table.filterConfirm": {
     "Original": "OK",
-    "Custom": "OK"
+    "Custom": ""
   },
   "Table.filterReset": {
     "Original": "Reset",
@@ -477,7 +477,7 @@
   },
   "Modal.okText": {
     "Original": "OK",
-    "Custom": "OK"
+    "Custom": ""
   },
   "Modal.cancelText": {
     "Original": "Cancel",
@@ -485,11 +485,11 @@
   },
   "Modal.justOkText": {
     "Original": "OK",
-    "Custom": "OK"
+    "Custom": ""
   },
   "Popconfirm.okText": {
     "Original": "OK",
-    "Custom": "OK"
+    "Custom": ""
   },
   "Popconfirm.cancelText": {
     "Original": "Cancel",
@@ -501,7 +501,7 @@
   },
   "Transfer.itemUnit": {
     "Original": "item",
-    "Custom": "item"
+    "Custom": ""
   },
   "Transfer.itemsUnit": {
     "Original": "items",
@@ -781,7 +781,7 @@
   },
   "lang.locale": {
     "Original": "en_US",
-    "Custom": "en_US"
+    "Custom": ""
   },
   "lang.today": {
     "Original": "Today",
@@ -845,7 +845,7 @@
   },
   "lang.dayFormat": {
     "Original": "D",
-    "Custom": "D"
+    "Custom": ""
   },
   "lang.dateTimeFormat": {
     "Original": "M/D/YYYY HH:mm:ss",
@@ -1024,7 +1024,7 @@
     "Custom": "Tempo esgotado. Reinicie as etapas anteriores para redefinir sua senha"
   },
   "LOGIN.VERSION": {
-    "Original": "version:",
+    "Original": "version：",
     "Custom": "versão?"
   },
   "LOGIN.FOLLOW_THE_STEPS": {
@@ -1133,11 +1133,11 @@
   },
   "ROOM.DEVICE_DETAIL.FAHRENHEIT": {
     "Original": "Fahrenheit",
-    "Custom": "Fahrenheit"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.CELSIUS": {
     "Original": "Celsius",
-    "Custom": "Celsius"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.DEVICES_STATUS": {
     "Original": "Device Status",
@@ -1145,7 +1145,7 @@
   },
   "ROOM.DEVICE_DETAIL.WIFI_SIGNAL": {
     "Original": "RSSI",
-    "Custom": "RSSI"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.BATTERY": {
     "Original": "Battery",
@@ -1281,7 +1281,7 @@
   },
   "ROOM.DEVICE_DETAIL.STATUS": {
     "Original": "Status",
-    "Custom": "Status"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.ASSIGN_LOCATION": {
     "Original": "Assign Location",
@@ -1405,7 +1405,7 @@
   },
   "ROOM.DEVICE_DETAIL.VOLUME": {
     "Original": "Volume",
-    "Custom": "Volume"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.SUCCESS": {
     "Original": "Success",
@@ -1441,7 +1441,7 @@
   },
   "ROOM.DEVICE_DETAIL.MODE_AUTO": {
     "Original": "Auto",
-    "Custom": "Auto"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.MODE_REFRIGERATION": {
     "Original": "Cool",
@@ -1473,11 +1473,11 @@
   },
   "ROOM.DEVICE_DETAIL.FUNCTION_SWING_UP_DOWN": {
     "Original": "V.Swing",
-    "Custom": "V.Swing"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.FUNCTION_SWING_LEFT_RIGHT": {
     "Original": "H.Swing",
-    "Custom": "H.Swing"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.FUNCTION_ANTI_DIRECT": {
     "Original": "Breeze Away",
@@ -1489,7 +1489,7 @@
   },
   "ROOM.DEVICE_DETAIL.MODE_NORMAL": {
     "Original": "Normal",
-    "Custom": "Normal"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.MODE_SLEEP": {
     "Original": "Sleep",
@@ -1561,7 +1561,7 @@
   },
   "ROOM.DEVICE_DETAIL.THRESHOLD_SETTING": {
     "Original": "OPS",
-    "Custom": "OPS"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.NOT_SETTING": {
     "Original": "Not set",
@@ -1593,7 +1593,7 @@
   },
   "ROOM.DEVICE_DETAIL.KWH": {
     "Original": "kWh",
-    "Custom": "kWh"
+    "Custom": ""
   },
   "ROOM.DEVICE_DETAIL.MIN_POWER_RANGE_WARNING": {
     "Original": "Min. Power Range {min}~{max}{unit}",
@@ -2264,7 +2264,7 @@
     "Custom": "Sensor de porta/janela"
   },
   "ROOM.CATEGORY.CO2": {
-    "Original": "Co2?temperature and humidity sensor",
+    "Original": "Co2、temperature and humidity sensor",
     "Custom": "Sensor de temperatura e umidade de Co2?"
   },
   "ROOM.CATEGORY.ILLUMINATION": {
@@ -2313,7 +2313,7 @@
   },
   "ROOM.CATEGORY.SENSOR": {
     "Original": "Sensor",
-    "Custom": "Sensor"
+    "Custom": ""
   },
   "ROOM.POWER_REACTION": {
     "Original": "Power-on State",
@@ -2401,7 +2401,7 @@
   },
   "ROOM.CO2": {
     "Original": "CO2",
-    "Custom": "CO2"
+    "Custom": ""
   },
   "ROOM.MOISTURE": {
     "Original": "Soil moisture",
@@ -2429,11 +2429,11 @@
   },
   "ROOM.HECTOPASCAL": {
     "Original": "hPa",
-    "Custom": "hPa"
+    "Custom": ""
   },
   "ROOM.MILLIMETER_HOUR": {
     "Original": "mm/h",
-    "Custom": "mm/h"
+    "Custom": ""
   },
   "ROOM.CHECK_THIRD_SERVICE": {
     "Original": "2.{appName} related service is available.",
@@ -2485,7 +2485,7 @@
   },
   "ROOM.KWH": {
     "Original": "kWh",
-    "Custom": "kWh"
+    "Custom": ""
   },
   "ROOM.HISTORY": {
     "Original": "History",
@@ -2496,7 +2496,7 @@
     "Custom": "Mapa Zigbee"
   },
   "ROOM.UPDATE_TIME": {
-    "Original": "Last refreshed:",
+    "Original": "Last refreshed：",
     "Custom": "Última atualização?"
   },
   "ROOM.REFRESHING_TIME": {
@@ -2793,7 +2793,7 @@
   },
   "ROOM.THERMOSTAT.CURRENT_STATUS": {
     "Original": "Status",
-    "Custom": "Status"
+    "Custom": ""
   },
   "ROOM.THERMOSTAT.MODE": {
     "Original": "Mode",
@@ -2817,11 +2817,11 @@
   },
   "ROOM.THERMOSTAT.MANUAL_MODE": {
     "Original": "Manual",
-    "Custom": "Manual"
+    "Custom": ""
   },
   "ROOM.THERMOSTAT.AUTO_MODE": {
     "Original": "Auto",
-    "Custom": "Auto"
+    "Custom": ""
   },
   "ROOM.THERMOSTAT.CLOSE_SCHEDULE_MANAGE_TIP": {
     "Original": "Save changes?",
@@ -2844,11 +2844,11 @@
     "Custom": "Bloqueio para crianças"
   },
   "ROOM.THERMOSTAT.OPEN_WINDOW_DETECTION_TIP": {
-    "Original": "When it is detected that there is cold wind, and the temperature drops by more than 1.5? within 4.5 min, the open-window function will be activated. At this time, the temperature is set to 12?.",
+    "Original": "When it is detected that there is cold wind, and the temperature drops by more than 1.5℃ within 4.5 min, the open-window function will be activated. At this time, the temperature is set to 12℃.",
     "Custom": "Quando é detectado que há vento frio e a temperatura cai mais de 1,5? dentro de 4,5 minutos, a função de janela aberta será ativada. Neste momento, a temperatura está ajustada para 12?."
   },
   "ROOM.THERMOSTAT.OPEN_WINDOW_DETECTION_ACTION": {
-    "Original": "While the open-window function is activated following operations will terminate it from taking effect. 1. Temperature setting operation on the iHost or device. 2. The detected temperature rises by more than 1.5? within 4.5 minutes. 3. No operation on the iHost or device within 30 minutes.",
+    "Original": "While the open-window function is activated following operations will terminate it from taking effect. 1. Temperature setting operation on the iHost or device. 2. The detected temperature rises by more than 1.5℃ within 4.5 minutes. 3. No operation on the iHost or device within 30 minutes.",
     "Custom": "Enquanto a função de janela aberta estiver ativada, as operações seguintes interromperão seu efeito. 1. Operação de configuração de temperatura no iHost ou dispositivo. 2. A temperatura detectada aumenta mais de 1,5? dentro de 4,5 minutos. 3. Nenhuma operação no iHost ou dispositivo em 30 minutos."
   },
   "ROOM.THERMOSTAT.GAS_EXPLAIN_USED": {
@@ -2856,7 +2856,7 @@
     "Custom": "O gás é consumido das 1h à 1h30, período em que o consumo é de 100%."
   },
   "ROOM.THERMOSTAT.GAS_EXPLAIN_SHOW": {
-    "Original": "Since the chart finally presents the hourly consumption, the average consumption between 1:00 Ã¢â‚¬â€œ 2:00 AM is 50%.",
+    "Original": "Since the chart finally presents the hourly consumption, the average consumption between 1:00 – 2:00 AM is 50%.",
     "Custom": "Como o gráfico finalmente apresenta o consumo por hora, o consumo médio entre 1h e 2h é de 50%."
   },
   "ROOM.THERMOSTAT.GAS_EXPLAIN_FINAL": {
@@ -2901,7 +2901,7 @@
   },
   "SCENE.SCENE": {
     "Original": "Scene",
-    "Custom": "Cena"
+    "Custom": "Cenas"
   },
   "SCENE.ADD_SCENE": {
     "Original": "Add Scene",
@@ -2945,7 +2945,7 @@
   },
   "SCENE.STATUS": {
     "Original": "Status",
-    "Custom": "Status"
+    "Custom": ""
   },
   "SCENE.LOG": {
     "Original": "Log",
@@ -3164,11 +3164,11 @@
     "Custom": "Percentagem"
   },
   "SCENE.THE_TEM_TIP": {
-    "Original": "The temperature should be between {min}? and {max}?",
+    "Original": "The temperature should be between {min}℃ and {max}℃",
     "Custom": "A temperatura deve estar entre {min}? e {máx.}?"
   },
   "SCENE.THE_TEM_TIP2": {
-    "Original": "The temperature should be between {min}? and {max}?",
+    "Original": "The temperature should be between {min}℉ and {max}℉",
     "Custom": "A temperatura deve estar entre {min}? e {máx.}?"
   },
   "SCENE.THE_TEM_TIP3": {
@@ -3181,11 +3181,11 @@
   },
   "SCENE.HOUR": {
     "Original": "h",
-    "Custom": "h"
+    "Custom": ""
   },
   "SCENE.MIN": {
     "Original": "min",
-    "Custom": "min"
+    "Custom": ""
   },
   "SCENE.SEC": {
     "Original": "s",
@@ -3249,7 +3249,7 @@
   },
   "SCENE.VOLUME": {
     "Original": "Volume",
-    "Custom": "Volume"
+    "Custom": ""
   },
   "SCENE.TTS_RUNNING_ERROR": {
     "Original": " {name} is running error, please check",
@@ -3733,7 +3733,7 @@
   },
   "SETTING.VOLUME": {
     "Original": "Volume",
-    "Custom": "Volume"
+    "Custom": ""
   },
   "SETTING.DEVICE_INFO": {
     "Original": "Device Info",
@@ -3765,7 +3765,7 @@
   },
   "SETTING.CPU": {
     "Original": "CPU",
-    "Custom": "CPU"
+    "Custom": ""
   },
   "SETTING.MEMORY": {
     "Original": "Memory",
@@ -3841,7 +3841,7 @@
   },
   "SETTING.LINK": {
     "Original": "Link",
-    "Custom": "Link"
+    "Custom": ""
   },
   "SETTING.SYNCING": {
     "Original": "Syncing...",
@@ -4137,7 +4137,7 @@
   },
   "SETTING.BLUE_TOOTH": {
     "Original": "Bluetooth",
-    "Custom": "Bluetooth"
+    "Custom": ""
   },
   "SETTING.MY_DEVICE": {
     "Original": "My Devices",
@@ -4197,11 +4197,11 @@
   },
   "SETTING.SIDE_MENU_HOME": {
     "Original": "Home",
-    "Custom": "Lar"
+    "Custom": ""
   },
   "SETTING.SIDE_MENU_SCENE": {
     "Original": "Scene",
-    "Custom": "Cena"
+    "Custom": "Cenas"
   },
   "SETTING.SIDE_MENU_SECURITY": {
     "Original": "Security",
@@ -4209,19 +4209,19 @@
   },
   "SETTING.SIDE_MENU_CAST": {
     "Original": "Cast",
-    "Custom": "Elenco"
+    "Custom": "Dashboard"
   },
   "SETTING.SIDE_MENU_DOCKER": {
     "Original": "Docker",
-    "Custom": "Docker"
+    "Custom": ""
   },
   "SETTING.SIDE_MENU_MATTER": {
     "Original": "Matter",
-    "Custom": "Matéria"
+    "Custom": ""
   },
   "SETTING.SIDE_MENU_PILOT_FEATURES": {
     "Original": "Pilot Features",
-    "Custom": "Recursos piloto"
+    "Custom": "Recursos Piloto"
   },
   "SETTING.SIDE_MENU_SETTING": {
     "Original": "Settings",
@@ -4253,7 +4253,7 @@
   },
   "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_1": {
     "Original": "{'{'}",
-    "Custom": "{'{'}"
+    "Custom": ""
   },
   "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_2": {
     "Original": "    \"key\": {'{'}",
@@ -4269,11 +4269,11 @@
   },
   "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_5": {
     "Original": "    {'}'}",
-    "Custom": "    {'}'}"
+    "Custom": ""
   },
   "SETTING.CUSTOM_LANGUAGE_TIP.JSON_LINE_6": {
     "Original": "{'}'}",
-    "Custom": "{'}'}"
+    "Custom": ""
   },
   "SETTING.CUSTOM_LANGUAGE_TIP.NOTE": {
     "Original": "Note:",
@@ -4282,7 +4282,7 @@
   "SETTING.CUSTOM_LANGUAGE_TIP.NOTICE_1": {
     "Original": "1. Do not translate \"{'$'}{'{'}...{'}'}\", \"{'{'}...{'}'}\" and \"\\\"\" in the \"Original\" text. Simply copy them into \"Custom\".",
     "Custom": "1. Não traduza \"{'$'}{'{'}...{'}'}\", \"{'{'}...{'}'}\" and \"\\\"\" no texto \"Original\" . Basta copiá-los para \"Custom\"."
-  }, 
+  },
   "SETTING.CUSTOM_LANGUAGE_TIP.NOTICE_2": {
     "Original": "2. Any untranslated or unrecognized content in the uploaded language file will default to English.",
     "Custom": "2. Qualquer conteúdo não traduzido ou não reconhecido no arquivo de idioma enviado terá como padrão o inglês."
@@ -4301,7 +4301,7 @@
   },
   "SETTING.DOWNLOAD_LANGUAGE": {
     "Original": "Download",
-    "Custom": "Download"
+    "Custom": ""
   },
   "SETTING.FILE_TYPE_ERROR": {
     "Original": "File format error, please retry.",
@@ -4389,23 +4389,23 @@
   },
   "COMMON.HOME": {
     "Original": "Home",
-    "Custom": "Lar"
+    "Custom": ""
   },
   "COMMON.H": {
     "Original": "h",
-    "Custom": "h"
+    "Custom": ""
   },
   "COMMON.HOUR": {
     "Original": "h",
-    "Custom": "h"
+    "Custom": ""
   },
   "COMMON.MIN": {
     "Original": "min",
-    "Custom": "min"
+    "Custom": ""
   },
   "COMMON.M": {
     "Original": "min",
-    "Custom": "min"
+    "Custom": ""
   },
   "COMMON.S": {
     "Original": "s",
@@ -4421,7 +4421,7 @@
   },
   "COMMON.DOWNLOAD": {
     "Original": "Download",
-    "Custom": "Download"
+    "Custom": ""
   },
   "ERROR.100000": {
     "Original": "Incorrect password",
@@ -4584,7 +4584,7 @@
     "Custom": "Dispositivo off-line, falha ao ativar a detecção"
   },
   "ERROR.170004": {
-    "Original": "Detection is enabled, you canÃ¢â‚¬â„¢t edit now",
+    "Original": "Detection is enabled, you can’t edit now",
     "Custom": "A detecção está ativada, você não pode editar agora"
   },
   "ERROR.170005": {
@@ -4669,7 +4669,7 @@
   },
   "CAST.WIDGET": {
     "Original": "Widgets",
-    "Custom": "Widgets"
+    "Custom": ""
   },
   "CAST.ALL_CONFIG": {
     "Original": "All panel",
@@ -4844,7 +4844,7 @@
     "Custom": "  ou  "
   },
   "CAST.USE_IP_ACCESS": {
-    "Original": " (replace X.X.X.X with your iHostÃ¢â‚¬â„¢s IP address)",
+    "Original": " (replace X.X.X.X with your iHost’s IP address)",
     "Custom": " (substitua XXXX pelo endereço IP do seu iHost)"
   },
   "CAST.CAST_DELETE": {
@@ -5001,7 +5001,7 @@
   },
   "DOCKER.DOCKER": {
     "Original": "Docker",
-    "Custom": "Docker"
+    "Custom": ""
   },
   "DOCKER.ALL_ADDON_ON": {
     "Original": "Add-on List",
@@ -5309,11 +5309,11 @@
   },
   "DOCKER.CPU": {
     "Original": "CPU",
-    "Custom": "CPU"
+    "Custom": ""
   },
   "DOCKER.VOLUME": {
     "Original": "Volume",
-    "Custom": "Volume"
+    "Custom": ""
   },
   "DOCKER.ADD_SUCCESS": {
     "Original": "Success",
@@ -5432,7 +5432,7 @@
     "Custom": "Mais informações"
   },
   "DOCKER.PLEASE_WAIT_LOADING": {
-    "Original": "Loading, please wait...",
+    "Original": "Loading, please wait…",
     "Custom": "Carregando, por favor espere…"
   },
   "DOCKER.ADDON_RUNTIME_ERROR": {
@@ -5473,7 +5473,7 @@
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_STATUS": {
     "Original": "Status",
-    "Custom": "Status"
+    "Custom": ""
   },
   "DOCKER.VOLUME_MANAGE.VOLUME_CREATE_TIME": {
     "Original": "Created",
@@ -5548,7 +5548,7 @@
     "Custom": "Formatar cartão TF"
   },
   "DOCKER.VOLUME_MANAGE.DETECTING_TF_CARD": {
-    "Original": "Detecting TF card, please wait...",
+    "Original": "Detecting TF card, please wait…",
     "Custom": "Detectando cartão TF, aguarde…"
   },
   "DOCKER.VOLUME_MANAGE.COMMAND_USEFUL": {
@@ -5616,7 +5616,7 @@
     "Custom": "Para não mostrar novamente"
   },
   "DOCKER.DOCKER_LOADING": {
-    "Original": "Loading. please wait...",
+    "Original": "Loading. please wait…",
     "Custom": "Carregando. por favor, aguarde…"
   },
   "DOCKER.DELETE": {
@@ -5713,15 +5713,15 @@
   },
   "DOCKER.WEATHER_API": {
     "Original": "Tile2CUBE-Weatherapi",
-    "Custom": "Tile2CUBE-Weatherapi"
+    "Custom": ""
   },
   "DOCKER.TASMOTA": {
     "Original": "MQTT2CUBE-Tasmota",
-    "Custom": "MQTT2CUBE-Tasmota"
+    "Custom": ""
   },
   "DOCKER.TTS": {
     "Original": "TTS2CUBE-Pico",
-    "Custom": "TTS2CUBE-Pico"
+    "Custom": ""
   },
   "DOCKER.FORMAT_FAIL": {
     "Original": "Format Failed",
@@ -5828,11 +5828,11 @@
     "Custom": "Observe"
   },
   "LABORATORY.DESCRIPTION_MAY_DISAPPEAR": {
-    "Original": "1?The pilot features may lack important functionality and may have future breaking changes, but is operational and available.",
+    "Original": "1、The pilot features may lack important functionality and may have future breaking changes, but is operational and available.",
     "Custom": "1?Os recursos piloto podem não ter funcionalidades importantes e podem ter alterações significativas futuras, mas estão operacionais e disponíveis."
   },
   "LABORATORY.DESCRIPTION_CONTACT_US": {
-    "Original": "2?Some pilot features may be removed or replaced in later updates based on comprehensive considerations, DO NOT use them to run production workloads is highly recommended.",
+    "Original": "2、Some pilot features may be removed or replaced in later updates based on comprehensive considerations, DO NOT use them to run production workloads is highly recommended.",
     "Custom": "2?Alguns recursos piloto podem ser removidos ou substituídos em atualizações posteriores com base em considerações abrangentes. NÃO usá-los para executar cargas de trabalho de produção é altamente recomendado."
   },
   "LABORATORY.SUPPORTED_FUNCTION": {
@@ -5860,7 +5860,7 @@
     "Custom": "1.Suporte para descobrir e adicionar dispositivos NÃO-ZigBee 3.0 compatíveis com eWeLink, como dispositivos SONOFF NÃO-ZigBee 3.0."
   },
   "LABORATORY.CANT_GUARANTEE": {
-    "Original": "2.CanÃ¢â‚¬â„¢t guarantee full support of Device Types or Features from other Brands.",
+    "Original": "2.Can’t guarantee full support of Device Types or Features from other Brands.",
     "Custom": "2.Não é possível garantir suporte total de tipos de dispositivos ou recursos de outras marcas."
   },
   "LABORATORY.STANDARD": {
@@ -6057,7 +6057,7 @@
   },
   "MATTER.OK": {
     "Original": "OK",
-    "Custom": "OK"
+    "Custom": ""
   },
   "MATTER.ADDED_SUCCESSFULLY": {
     "Original": "Added successfully",
@@ -6138,7 +6138,7 @@
   "MATTER.SCAN_QRCODE": {
     "Original": "Scan the QR code",
     "Custom": "Escanear QR Code"
-  },	
+  },
   "MATTER.ENTER_MANUAL_PAIRING": {
     "Original": "type in the numeric code",
     "Custom": "digite o código numérico"
